@@ -164,7 +164,7 @@ export default function Home() {
 							{ 
 								title: 'Burritos', 
 								desc: 'Warm tortilla, hearty fillings—wrapped firm, zero mess.',
-								image: '/Food Items/burrito.png',
+								image: '/Food Items/Burrito.png',
 								alt: 'Menu item placeholder'
 							},
 							{ 
