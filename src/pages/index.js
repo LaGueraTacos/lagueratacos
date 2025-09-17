@@ -152,25 +152,25 @@ export default function Home() {
 							{ 
 								title: 'Tacos', 
 								desc: 'La Guera style: warm tortillas, real street flavor, house salsas.',
-								image: '/Food items/Tacos.png',
+								image: '/Food Items/Tacos.png',
 								alt: 'Tacos from La Guera Tacos'
 							},
 							{ 
 								title: 'Quesadillas', 
 								desc: 'Crisp outside, stretchy cheese inside—salsa, crema, done.',
-								image: '/Food items/Quesadillas.png',
+								image: '/Food Items/Quesadillas.png',
 								alt: 'Menu item placeholder'
 							},
 							{ 
 								title: 'Burritos', 
 								desc: 'Warm tortilla, hearty fillings—wrapped firm, zero mess.',
-								image: '/Food items/burrito.png',
+								image: '/Food Items/burrito.png',
 								alt: 'Menu item placeholder'
 							},
 							{ 
 								title: 'Tortas', 
 								desc: 'Toasted roll, fresh avocado, tomato slices, choice of protein.',
-								image: '/Food items/torta.png',
+								image: '/Food Items/torta.png',
 								alt: 'Menu item placeholder'
 							},
 						].map((item) => (
